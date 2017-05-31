@@ -4,3 +4,7 @@ alias duu="du -h --max-depth=2"
 alias duuu="du -h --max-depth=3"
 alias v=vim
 alias ll="ls -l"
+alias di="docker images"
+alias dri="docker rmi"
+alias dr="docker rm"
+alias dkc="docker-compose"
