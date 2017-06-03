@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=wpp
+GenericName=powerpoint editor
+Comment=edit or create ppt pptx.
+Exec=wpp %u
+Icon=wps-office-wppmain
+Terminal=false
+Type=Application
+Categories=Office;Writer;
+Keywords=wps;edit or create ppt pptx;wps 2016;
