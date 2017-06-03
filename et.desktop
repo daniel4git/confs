@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=et
+GenericName=excel editor
+Comment=edit or create xls xlsx.
+Exec=et %u
+Icon=wps-office-etmain
+Terminal=false
+Type=Application
+Categories=Office;Writer;
+Keywords=wps;edit or create xls xlsx;wps 2016;
