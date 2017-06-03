@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=wps
+GenericName=wps writer
+Comment=edit or create doc docx.
+Exec=wps %u
+Icon=wps-office-wpsmain
+Terminal=false
+Type=Application
+Categories=Office;Writer;
+Keywords=wps;edit or create doc docx;wps 2016;
