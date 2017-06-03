@@ -1,0 +1,3 @@
+查看系统中是否有libpng12.so.0
+ls -ld $(locate -r libpng.*\.so.*)
+让动态链接库libpng12.so.0为系统所共享：sudo ldconfig
