@@ -1,0 +1,5 @@
+stop all running containers
+docker container stop `docker ps -a -q`
+
+remove all containers
+docker rm `docker ps -a -q`
